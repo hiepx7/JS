@@ -101,7 +101,6 @@ if (chiSoAmDauTien != -1){
 
 
 
-
 // ******************************************** 
 // CÂU 3: Tính tổng các số lẻ trong mảng mangX.
 
